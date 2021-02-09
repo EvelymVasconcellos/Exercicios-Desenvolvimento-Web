@@ -1,0 +1,28 @@
+body {
+ 	background: gray;
+	font: 13px Tahoma;
+	color: blue;
+	text-align: center;
+}
+
+#Texto {
+
+	font: 15px Arial;
+	color: black;
+	text-align: center;
+}
+
+#NomeAutor {
+
+	font: 8px Arial;
+	color: black;
+	font-weight: bold;
+	font-style: italic;
+
+}
+
+
+
+
+
+
